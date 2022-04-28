@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi Celeste Silva there 👋
 
-Here are some ideas to get you started:
+<img src =https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076533_960_720.jpg>
+
+## Student 💻
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
