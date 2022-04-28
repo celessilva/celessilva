@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on this tecnologies Html,Css,javaScript,Phyton,Java
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fceleste_nsilva)
+  https://www.linkedin.com/in/celeste-natali-silva-326175139/
 
   #### Coding 🚀🚀🚀
 
