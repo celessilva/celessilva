@@ -4,7 +4,7 @@
 
 ## Student 💻
 
-- 🔭 I’m currently working on this tecnologies Html,Css,javaScript,Python,java
+- 🔭 I’m currently working on this tecnologies Html,Css,javaScript,node,Python,java
 
 - 📫 How to reach me:
   ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fceleste_nsilva)
